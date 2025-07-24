@@ -49,10 +49,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
   products.forEach(product => {
     let div = document.createElement('div');
-    div.className = 'col-12 col-sm-6 col-md-4 mb-4';
+    div.className = 'col-12 col-sm-6 col-md-4 mb-3';
 
     div.innerHTML = `
-      <div class="card h-100 shadow d-flex flex-column" data-aos="zoom-out" data-aos-duration="800">
+      <div class="card h-100 shadow d-flex flex-column" data-aos="zoom-in" data-aos-duration="800">
         <img src="${product.image}" class="card-img-top" alt="${product.item}">
         <div class="card-body d-flex flex-column justify-content-between">
           <div>
