@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function () {
       item: 'bluetooth',
       price: '$44',
       color: 'black',
-      image: './images/imgfromgood/mp3.jpg',
+      image: './images/imgfromgood/MP3.jpg',
       description: 'Wireless Bluetooth speaker with rich sound and deep bass.'
     }
   ];
