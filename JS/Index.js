@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function () {
       item: 'fan',
       price: '$45',
       color: 'black',
-      image: './Images/imgfromGood/iphone.jpg',
+      image: './Images/imgfromGood/clothes.jpg',
       description: 'Stay cool all day with this high-efficiency table fan.'
     },
     {
