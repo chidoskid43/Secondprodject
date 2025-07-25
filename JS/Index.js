@@ -4,42 +4,42 @@ document.addEventListener("DOMContentLoaded", function () {
       item: 'iphone',
       price: '$32',
       color: 'black',
-      image: './images/imgfromgood/iphone.jpg',
+      image: './Images/imgfromGood/iphone.jpg',
       description: 'A sleek and powerful smartphone built for speed and style.'
     },
     {
       item: 'laptop',
       price: '$21',
       color: 'pink',
-      image: './images/imgfromgood/laptop.jpg',
+      image: './Images/imgfromGood/laptop.jpg',
       description: 'Stylish and comfortable wear that fits all occasions beautifully.'
     },
     {
       item: 'fan',
       price: '$45',
       color: 'black',
-      image: './images/imgfromgood/fan.jpg',
+      image: './Images/imgfromGood/fan.jpg',
       description: 'Stay cool all day with this high-efficiency table fan.'
     },
     {
       item: 'keyboard',
       price: '$54',
       color: 'black',
-      image: './images/imgfromgood/keyboard.jpg',
+      image: './Images/imgfromGood/keyboard.jpg',
       description: 'Smooth and responsive keyboard ideal for typing and gaming.'
     },
     {
       item: 'shoe',
       price: '$36',
       color: 'black',
-      image: './images/imgfromgood/shoe.jpg',
+      image: './Images/imgfromGood/shoe.jpg',
       description: 'Durable and trendy shoes made for comfort and long walks.'
     },
     {
       item: 'bluetooth',
       price: '$44',
       color: 'black',
-      image: './images/imgfromgood/MP3.jpg',
+      image: './Images/imgfromGood/MP3.jpg',
       description: 'Wireless Bluetooth speaker with rich sound and deep bass.'
     }
   ];
