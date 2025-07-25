@@ -8,10 +8,10 @@ document.addEventListener("DOMContentLoaded", function () {
       description: 'A sleek and powerful smartphone built for speed and style.'
     },
     {
-      item: 'clothes',
+      item: 'laptop',
       price: '$21',
       color: 'pink',
-      image: './images/imgfromgood/clothes.jpg',
+      image: './images/imgfromgood/laptop.jpg',
       description: 'Stylish and comfortable wear that fits all occasions beautifully.'
     },
     {
