@@ -12,14 +12,14 @@ document.addEventListener("DOMContentLoaded", function () {
       price: '$21',
       color: 'pink',
       image: './Images/imgfromGood/laptop.jpg',
-      description: 'Stylish and comfortable wear that fits all occasions beautifully.'
+      description: 'This laptop combines elegant design and reliable performance, professionals, and tech lovers alike.".'
     },
     {
-      item: 'fan',
+      item: 'clothes',
       price: '$45',
       color: 'black',
       image: './Images/imgfromGood/clothes.jpg',
-      description: 'Stay cool all day with this high-efficiency table fan.'
+      description: 'These clothes are trendy, comfortable, and perfect for every occasion.'
     },
     {
       item: 'keyboard',
